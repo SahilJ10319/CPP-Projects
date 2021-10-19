@@ -1,0 +1,13 @@
+How to Run Program
+
+Step 1: Download VSC 
+
+Step 2: Download this assignment 
+
+Step 3: cd into project directory
+
+Step 4: run g++ final_project.cpp
+
+Step 5: run ./a.out
+
+Step 6: When prompted enter correct text file name to run program
